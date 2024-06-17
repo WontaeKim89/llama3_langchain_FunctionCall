@@ -17,6 +17,7 @@ https://familia-89.tistory.com/94
 <br>
 
 ## Reference
+
 ####[model]
 https://huggingface.co/Bllossom/llama-3-Korean-Bllossom-70B-gguf-Q4_K_M
 
